@@ -81,3 +81,22 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Intermediate cache
+Intermediate/CachedAssetRegistry_*.bin
+Intermediate/CachedAssetRegistry*.bin
+
+# Saved config files
+Saved/Config/CrashReportClient/**/*
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/**/EditorPerProjectUserSettings.ini
+ProyectoCCC/Intermediate/*
+ProyectoCCC/Saved/Autosaves/*
+ProyectoCCC/Saved/AutoScreenshot.png
+ProyectoCCC/Saved/Config/CrashReportClient/*
+ProyectoCCC/Saved/Config/WindowsEditor/*
+ProyectoCCC/Saved/Logs/*
+ProyectoCCC/Saved/Telemetry/*
+
+# Telemetry
+Saved/Telemetry/*
+Saved/Telemetry/**/*
