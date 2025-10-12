@@ -65,11 +65,15 @@ Saved/*
 
 # Archivos específicos de Unreal que cambian constantemente
 *.umap
+*.log
 Saved/Autosaves/*
+Saved/AutoScreenshot.png
 Saved/Config/CrashReportClient/*
 Saved/Config/*/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/*
+Saved/Logs/*
 Saved/Telemetry/*
-Intermediate/CachedAssetRegistry_*.bin
+Intermediate/CachedAssetRegistry*.bin
 
 # Compiled source files for the engine to use
 Intermediate/*
