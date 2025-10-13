@@ -96,7 +96,14 @@ ProyectoCCC/Saved/Config/CrashReportClient/*
 ProyectoCCC/Saved/Config/WindowsEditor/*
 ProyectoCCC/Saved/Logs/*
 ProyectoCCC/Saved/Telemetry/*
+# Source Control
+ProyectoCCC/Saved/SourceControl/*
 
+# Package restore
+ProyectoCCC/Saved/Autosaves/*
+
+# Web cache
+ProyectoCCC/Saved/webcache_*/*
 # Telemetry
 Saved/Telemetry/*
 Saved/Telemetry/**/*
