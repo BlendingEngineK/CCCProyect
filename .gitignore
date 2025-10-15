@@ -64,31 +64,7 @@ Build/*/**
 Saved/*
 
 # Archivos específicos de Unreal que cambian constantemente
-*.umap
 *.log
-Saved/Autosaves/*
-Saved/AutoScreenshot.png
-Saved/Config/CrashReportClient/*
-Saved/Config/*/EditorPerProjectUserSettings.ini
-Saved/Config/WindowsEditor/*
-Saved/Logs/*
-Saved/Telemetry/*
-Intermediate/CachedAssetRegistry*.bin
-
-# Compiled source files for the engine to use
-Intermediate/*
-Plugins/**/Intermediate/*
-
-# Cache files for the editor to use
-DerivedDataCache/*
-# Intermediate cache
-Intermediate/CachedAssetRegistry_*.bin
-Intermediate/CachedAssetRegistry*.bin
-
-# Saved config files
-Saved/Config/CrashReportClient/**/*
-Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Saved/Config/**/EditorPerProjectUserSettings.ini
 ProyectoCCC/Intermediate/*
 ProyectoCCC/Saved/Autosaves/*
 ProyectoCCC/Saved/AutoScreenshot.png
@@ -96,14 +72,12 @@ ProyectoCCC/Saved/Config/CrashReportClient/*
 ProyectoCCC/Saved/Config/WindowsEditor/*
 ProyectoCCC/Saved/Logs/*
 ProyectoCCC/Saved/Telemetry/*
-# Source Control
 ProyectoCCC/Saved/SourceControl/*
-
-# Package restore
-ProyectoCCC/Saved/Autosaves/*
-
-# Web cache
 ProyectoCCC/Saved/webcache_*/*
-# Telemetry
-Saved/Telemetry/*
-Saved/Telemetry/**/*
+
+# Intermediate cache
+Intermediate/*
+Plugins/**/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
